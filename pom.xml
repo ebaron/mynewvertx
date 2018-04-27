@@ -143,14 +143,6 @@
                   </vertx-health-check>
                 </config>
               </enricher>
-            
-          <resources>
-            <labels>
-              <all>
-                <space>myotherspace</space>
-              </all>
-            </labels>
-          </resources>
         </configuration>
           </plugin>
         </plugins>
